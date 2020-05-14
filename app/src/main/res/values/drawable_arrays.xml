@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="baby_weekly_images">
+        <item>@drawable/baby1</item>
+        <item>@drawable/baby2</item>
+        <item>@drawable/baby3</item>
+        <item>@drawable/baby4</item>
+        <item>@drawable/baby5</item>
+        <item>@drawable/baby6</item>
+        <item>@drawable/baby7</item>
+        <item>@drawable/baby8</item>
+        <item>@drawable/baby9</item>
+        <item>@drawable/baby10</item>
+        <item>@drawable/baby11</item>
+        <item>@drawable/baby12</item>
+        <item>@drawable/baby13</item>
+        <item>@drawable/baby14</item>
+        <item>@drawable/baby15</item>
+        <item>@drawable/baby16</item>
+        <item>@drawable/baby17</item>
+        <item>@drawable/baby18</item>
+        <item>@drawable/baby19</item>
+        <item>@drawable/baby20</item>
+        <item>@drawable/baby21</item>
+        <item>@drawable/baby22</item>
+        <item>@drawable/baby23</item>
+        <item>@drawable/baby24</item>
+        <item>@drawable/baby25</item>
+        <item>@drawable/baby26</item>
+        <item>@drawable/baby27</item>
+        <item>@drawable/baby28</item>
+        <item>@drawable/baby29</item>
+        <item>@drawable/baby30</item>
+        <item>@drawable/baby31</item>
+        <item>@drawable/baby32</item>
+        <item>@drawable/baby33</item>
+        <item>@drawable/baby34</item>
+        <item>@drawable/baby35</item>
+        <item>@drawable/baby36</item>
+        <item>@drawable/baby37</item>
+        <item>@drawable/baby38</item>
+        <item>@drawable/baby39</item>
+        <item>@drawable/baby40</item>
+        <item>@drawable/baby41</item>
+        <item>@drawable/baby42</item>
+    </array>
+
+    <array name="fruits">
+        <item>@drawable/fruit1</item>
+        <item>@drawable/fruit1</item>
+        <item>@drawable/fruit1</item>
+        <item>@drawable/fruit2</item>
+        <item>@drawable/fruit3</item>
+        <item>@drawable/fruit4</item>
+        <item>@drawable/fruit5</item>
+        <item>@drawable/fruit6</item>
+        <item>@drawable/fruit7</item>
+        <item>@drawable/fruit8</item>
+        <item>@drawable/fruit9</item>
+        <item>@drawable/fruit10</item>
+        <item>@drawable/fruit11</item>
+        <item>@drawable/fruit12</item>
+        <item>@drawable/fruit13</item>
+        <item>@drawable/fruit14</item>
+        <item>@drawable/fruit15</item>
+        <item>@drawable/fruit16</item>
+        <item>@drawable/fruit17</item>
+        <item>@drawable/fruit18</item>
+        <item>@drawable/fruit19</item>
+        <item>@drawable/fruit20</item>
+        <item>@drawable/fruit21</item>
+        <item>@drawable/fruit22</item>
+        <item>@drawable/fruit23</item>
+        <item>@drawable/fruit24</item>
+        <item>@drawable/fruit25</item>
+        <item>@drawable/fruit26</item>
+        <item>@drawable/fruit27</item>
+        <item>@drawable/fruit28</item>
+        <item>@drawable/fruit29</item>
+        <item>@drawable/fruit30</item>
+        <item>@drawable/fruit31</item>
+        <item>@drawable/fruit32</item>
+        <item>@drawable/fruit33</item>
+        <item>@drawable/fruit34</item>
+        <item>@drawable/fruit35</item>
+        <item>@drawable/fruit36</item>
+        <item>@drawable/fruit37</item>
+        <item>@drawable/fruit38</item>
+        <item>@drawable/fruit38</item>
+        <item>@drawable/fruit38</item>
+    </array>
+
+    <array name="tips_images">
+        <item>@drawable/tip1</item>
+        <item>@drawable/tip2</item>
+        <item>@drawable/tip3</item>
+        <item>@drawable/tip4</item>
+        <item>@drawable/tip5</item>
+        <item>@drawable/tip6</item>
+        <item>@drawable/tip7</item>
+        <item>@drawable/tip8</item>
+        <item>@drawable/tip9</item>
+        <item>@drawable/tip10</item>
+        <item>@drawable/tip11</item>
+        <item>@drawable/tip12</item>
+        <item>@drawable/tip13</item>
+        <item>@drawable/tip14</item>
+        <item>@drawable/tip15</item>
+        <item>@drawable/tip16</item>
+        <item>@drawable/tip17</item>
+        <item>@drawable/tip18</item>
+        <item>@drawable/tip19</item>
+        <item>@drawable/tip20</item>
+        <item>@drawable/tip21</item>
+        <item>@drawable/tip22</item>
+        <item>@drawable/tip23</item>
+        <item>@drawable/tip24</item>
+        <item>@drawable/tip25</item>
+        <item>@drawable/tip26</item>
+        <item>@drawable/tip27</item>
+        <item>@drawable/tip28</item>
+        <item>@drawable/tip29</item>
+        <item>@drawable/tip30</item>
+        <item>@drawable/tip31</item>
+        <item>@drawable/tip32</item>
+        <item>@drawable/tip33</item>
+        <item>@drawable/tip34</item>
+        <item>@drawable/tip35</item>
+        <item>@drawable/tip36</item>
+        <item>@drawable/tip37</item>
+        <item>@drawable/tip38</item>
+        <item>@drawable/tip39</item>
+        <item>@drawable/tip40</item>
+        <item>@drawable/tip41</item>
+        <item>@drawable/tip42</item>
+    </array>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

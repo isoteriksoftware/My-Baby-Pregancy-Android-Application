@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="baby_weekly_stats_array">
+        <item>.... .... tiny-seed</item>
+        <item>.... .... tiny-seed</item>
+        <item>.... .... tiny-seed</item>
+
+        <item>0.04in 1.1g poppy-seed</item>
+        <item>0.05in 1.1g peppercorn</item>
+        <item>0.12in 1.1g pomegranate-seed</item>
+
+        <item>0.5in 1.1g blueberry</item>
+        <item>0.63in 1.1g raspberry</item>
+        <item>0.9in 2g cherry</item>
+
+        <item>1.22in 4g kumquat</item>
+        <item>1.61in 7g fig</item>
+        <item>2.13in 14g plum</item>
+
+        <item>2.91in 23g meyer-lemon</item>
+        <item>3.42in 43g peach</item>
+        <item>3.98in 70g apple</item>
+
+        <item>4.57in 100g avocado</item>
+        <item>5.12in 140g pear</item>
+        <item>5.59in 189g sweet-potato</item>
+
+        <item>6.02in 240g mango</item>
+        <item>6.46in 299g banana</item>
+        <item>10.51n 360g carrot</item>
+
+        <item>10.94in 445g papaya</item>
+        <item>11.38in 498g eggplant</item>
+        <item>11.81in 599g corn</item>
+
+        <item>13.62in 662g acorn-squash</item>
+        <item>14.02in 762g zucchini</item>
+        <item>14.41in 875g cauliflower</item>
+
+        <item>14.80in 1kg kabocha</item>
+        <item>15.2in 1.1kg large-butternut</item>
+        <item>15.71in 1.3kg large-cabbage</item>
+
+        <item>16.18in 1.5kg bunch-of-leeks</item>
+        <item>16.69in 1.7kg napa-cabbage</item>
+        <item>17.20in 1.9kg pineapple</item>
+
+        <item>17.72in 2.1kg cantaloupe</item>
+        <item>18.19in 2.4kg honeydew-melon</item>
+        <item>18.66in 2.6kg romaine-lettuce</item>
+
+        <item>19.13in 2.9kg swiss-chard</item>
+        <item>19.61in 3kg rhubarb</item>
+        <item>19.96in 3.2kg small-pumpkin</item>
+
+        <item>20.16in 3.4kg watermelon</item>
+        <item>20.59in 3.6kg watermelon</item>
+        <item>21.00in 4kg watermelon</item>
+    </string-array>
+
+    <string-array name="baby_weekly_update_array">
+        <item>
+            Your due date is calculated from the first day of your <b>Last Menstrual Period (LMP).</b>
+            Conception occurs about two weeks from this day, and that\'s when you\'re truly considered pregnant.
+            In just 40 short weeks, your baby will grow from the size of a tiny seed to the size of a plump watermelon!
+        </item>
+        <item>
+            Your due date is calculated from the first day of your <b>Last Menstrual Period (LMP).</b>
+            Conception occurs about two weeks from this day, and that\'s when you\'re truly considered pregnant.
+            In just 40 short weeks, your baby will grow from the size of a tiny seed to the size of a plump watermelon!
+        </item>
+        <item>
+            Your due date is calculated from the first day of your <b>Last Menstrual Period (LMP).</b>
+            Conception occurs about two weeks from this day, and that\'s when you\'re truly considered pregnant.
+            In just 40 short weeks, your baby will grow from the size of a tiny seed to the size of a plump watermelon!
+        </item>
+
+        <item>
+            Your fertilized egg, known as <i>zygote</i>, is a ball of 32 cells that\'s about the size of a poppy seed.
+            It is at this stage that the cells separate into three distinct layers from which your baby\'s internal organs and skin will develop.
+        </item>
+        <item>
+            The ball of cells now resembles a tadpole and is as big as a peppercorn.
+            The creation of the brain, spinal cord, heart, and blood vessels is already well under way.
+        </item>
+        <item>
+            Your little one has tripled in size and is protected by amniotic fluid.
+            Although he\'s grown by leaps and bounds, he\'s still only about the size of a pomegranate seed.
+        </item>
+
+        <item>
+            Your baby is now about the size of a small blueberry. Her arm buds, which formed last week, now look like paddles.
+        </item>
+        <item>
+            Your baby is about the size of raspberry. His hands and feet have webbed fingers and toes.
+            Soon this extra tissue between his digits will be reabsorbed to reveal individual fingers and toes.
+        </item>
+        <item>
+            Your baby has graduated from embryo to fetus- and is now the about the size of a cherry.
+            The digestive tract and reproductive organs are formed, but it\'s still too early for even a skilled technician to tell whether you\'re having a boy or a girl.
+        </item>
+
+        <item>
+            Your baby is about the size of a kumquat and can stretch his spine.
+            Her eyes and eyelids are more developed and her eyebrows are beginning to grow.
+        </item>
+        <item>
+            Your baby is about the size of a fig. From now through week 20 of your pregnancy, he\'ll increase 30-fold in weight and triple in length.
+        </item>
+        <item>
+            Your baby is almost three inches long now, about the size of a plum.
+            Fingernails, toenails, and bones are forming, and a fine layer of hair covers most of her body.
+        </item>
+
+        <item>
+            Your beautiful baby is the size of a meyer lemon this week- and his vocal cords are beginning to develop.
+        </item>
+        <item>
+            As you enter your second trimester, your baby is the size of a peach.
+            All of her internal organs formed during the first trimester, and they will continue to mature from now until she\'s born.
+        </item>
+        <item>
+            Your baby is now the size of an apple. His brain now controls all the muscles in his body; he is able to move.
+            Yes, he\'ll even do somersaults! But if this is your first baby, you probably won\'t feel him moving for several more weeks.
+        </item>
+
+        <item>
+            Your baby is now the size of an avocado- and she can make a fist and even suck her thumb.
+        </item>
+        <item>
+            Your baby is now the size of a pear. He has hiccuped before, but this is the first time you might feel it.
+        </item>
+        <item>
+            Your baby is now the size of a sweet potato- and her tiny fingers now have unique fingerprints!
+        </item>
+
+        <item>
+            Your baby is now about the size of a mango.
+            His legs are now longer than his arms, and he\'ll start giving you \"hello\" jabs at regular intervals, which you may be able to feel if this is your second or third pregnancy.
+            First-time moms still might not feel anything for a few more weeks.
+        </item>
+        <item>
+            Your baby is now the size of a banana. She may have thin eyebrows and is sprouting some hair on her head.
+        </item>
+        <item>
+            Your baby is now as long as a carrot, and his skin now responds to touch. If you put pressure on your belly, he\'ll move away or push back.
+        </item>
+
+        <item>
+            Your baby is the size of a papaya.
+            Her lungs are developing rapidly, and they will begin making a protein called <i>surfactant</i>, which will help her breathe independently once she\'s born.
+        </item>
+        <item>
+            Your baby is as big as an eggplant.
+            His brain and hearing are more developed this week, and he\'s beginning to recognize your voice.
+        </item>
+        <item>
+            Your baby is as long as an ear of corn.
+            Her nostrils are opening now for \"practice breathing\"; she\'ll go through the same motions of real breathing but inhale amniotic fluid instead of air.
+        </item>
+
+        <item>
+            Your baby is the size of an acorn squash.
+            He\'s developing a firm grasp and may reach out and grab the umbilical cord. He can also stick out his tongue!
+        </item>
+        <item>
+            Your baby is nearly as long as a zucchini. Her eyebrows and eyelashes are well defined; plus, she has more hair on her head this week.
+        </item>
+        <item>
+            Your baby is now the size of a cauliflower.
+            At this point, he may be able to distinguish between your voice and your husband\'s or partner\'s voice.
+        </item>
+
+        <item>
+            Your baby is the size of a kabocha squash, and she is beginning to open her eyes and blink.
+        </item>
+        <item>
+            Your baby is the size of a large butternut squash. His skin is still wrinkly, but as fat accumulates, he will fill out.
+        </item>
+        <item>
+            Your baby is the size of a large cabbage.
+            She has cycles of sleeping and waking. After 30 to 90 minutes of snoozing, she may give you a kick to let you know she\'s awake.
+        </item>
+
+        <item>
+            Your baby is about as long as a bunch of leeks, and she will now gain as much as a half pound per week until she\'s born.
+        </item>
+        <item>
+            Your baby is the size of a Napa cabbage.
+            Because her taste buds are developed, she may acquire a preference for the foods you eat, which she samples when she swallows amniotic fluid.
+        </item>
+        <item>
+            Your baby is the size of a pineapple.
+            <i>Lanugu</i>, the fine hair that covered her entire body and helped keep her warm as she developed, is starting to disappear, but there might still be patches of it on her shoulders and back.
+        </item>
+
+        <item>
+            Your baby is the size of a cantaloupe.
+            Her bones are fully developed by now, and she\'s turning her head, pirouetting, and moving her body from side to side.
+        </item>
+        <item>
+            Your baby is the size of a honeydew melon. In preparation for birth, he is now upside down in your uterus.
+        </item>
+        <item>
+            Your baby is now the size of a head of romaine lettuce, and her wrinkly suit of skin is filling out as she gets plumper.
+        </item>
+
+        <item>
+            Your baby is as long as stalk of Swiss chard. Because he\'s running out of room in your uterus, he mostly stretches and wiggles, instead of delivering big kicks.
+        </item>
+        <item>
+            Your baby is the length of a stalk of rhubarb. Connections are forming in her brain that will help her swallow and even sleep better once she\'s born.
+        </item>
+        <item>
+            Your baby now weighs as much as a small pumpkin.
+            At this point, he has shed most of that white creamy substance called <i>vernix</i> and the fine, fur-like hair called <i>lanugo</i> that has covered his skin since the middle of your second trimester.
+        </item>
+
+        <item>
+            By the time she\'s born, your baby may be watermelon-size.
+            You\'re expecting to give birth this week, but don\'t worry if your baby decides to stick around a little longer. Many first babies are late, and she\'ll be worth the wait— we promise!
+        </item>
+        <item>
+            By the time she\'s born, your baby may be watermelon-size.
+            You\'re expecting to give birth this week, but don\'t worry if your baby decides to stick around a little longer. Many first babies are late, and she\'ll be worth the wait— we promise!
+        </item>
+        <item>
+            By the time she\'s born, your baby may be watermelon-size.
+            You\'re expecting to give birth this week, but don\'t worry if your baby decides to stick around a little longer. Many first babies are late, and she\'ll be worth the wait— we promise!
+        </item>
+    </string-array>
+
+    <string-array name="pregnancy_week_data_array">
+        <item>
+            Baby? What baby? This concept may be a little hard to wrap your head around, but even though you\'re technically in the first week of pregnancy, you\'re not quite expecting— yet.
+            \n\nHere\'s the deal: Because it\'s generally impossible to know the exact moment of conception, most health care providers count 40 weeks from the first day of your last menstrual period (LMP) to calculate your due date. According to this method, they date the beginning of \"pregnancy\" from about two weeks before the sperm penetrates the egg — which is where you are right now.
+            \n\nAlready spotted that pink line on a home pregnancy test? You\'re further along than you think, so skip ahead to Week 4.
+        </item>
+        <item>
+            So far your baby doesn\'t exist, but this is the week you ovulate. Your ovary releases a ripened egg (ovum) into your fallopian tube, where it will patiently await the sperm that have survived the 6- to 8-inch trek through your cervix and uterus.
+            \n\nWhile 75 to 900 million sperm embark on this journey, less than a thousand actually make it past your cervix — and only one lucky swimmer will have the honor of penetrating the egg at the moment of conception.
+        </item>
+        <item>
+            Amazingly, your child\'s sex and all of her inherited genetic characteristics — such as eye color, hair color, skin, and body type — have been set since the moment of conception. Your developing baby, now called a zygote, has 46 chromosomes — 23 from you and 23 from your partner.
+            \n\nThese chromosomes help determine your baby\'s sex and traits such as eye and hair color, and, to some extent, personality and intelligence. After fertilization, the ball of cells, now an embryo, will wrap up its journey through the fallopian tube and burrow itself into the wall of your uterus for nourishment — a process known as implantation.
+            \n\nIf you\'re having multiples, the deed has already been done. Fraternal twins occur when two separate eggs are fertilized by two different sperm and each baby has his own placenta and amniotic sac. If one fertilized egg splits and develops into two fetuses, the result is identical twins. They may share a placenta, but each baby usually has a separate amniotic sac.
+        </item>
+
+        <item>
+            So what\'s going on in your womb this week? Your embryo may be minuscule, but trust us: Super-important developments are already under way. This week the embryo splits into two parts. One half will become the placenta, a special tissue that delivers must-have nutrients and oxygen to your baby throughout your entire pregnancy.
+            \n\nIn the other half, the embryo itself continues to grow, and a sheet of cells has just begun to create the neural tube, where your baby\'s brain, spinal cord and backbone will ultimately form.
+        </item>
+        <item>
+            This week, your baby\'s ticker will start beating for the first time! (Neither you nor your doctor can hear it yet, but it may be possible to see the movement on an ultrasound.) And your little one has been really busy growing! The embryo now has three distinct layers: the outer ectoderm, which will form the nervous system, ears, eyes, inner ear and many connective tissues; the endoderm, or inner layer, which will grow into internal organs like the lungs, intestines and bladder; and the middle mesoderm, which will eventually make way for the heart and circulatory system.
+            \n\nIn the weeks to come, the mesoderm will also evolve into bones, muscles, kidneys and reproductive organs.
+        </item>
+        <item>
+            By the end of this week your baby will have tripled in size! His heart is now beating with a regular rhythm. It\'s still too faint to be picked up by your doctor\'s stethoscope, but if you have an ultrasound at some point over the next few weeks it will probably be visible as a tiny, pulsing dot in the middle of his mini body.
+            \n\nFun fact: From now until birth, your child\'s heart will beat about 150 times a minute — twice the average adult rate. Also this week, your baby\'s brain hemispheres are forming — and brain waves can now be recorded.
+        </item>
+
+        <item>
+            "Your baby is already developing amazingly distinct facial features. Dark spots mark the areas where her eyes and nostrils will be, and a little mouth and ears are starting to form, too. Your baby's brain is also growing more complex; if you could take a peek, it would be clearly visible inside the transparent skull.
+            \n\nIn fact, nerve cells in your baby's brain are growing at an amazing rate — 100,000 cells per minute! And she's started to move in small, jerky motions, although you won't feel these movements until about your fourth month of pregnancy."
+        </item>
+        <item>
+            "Your baby's growth spurt continues: In the last two weeks he has quadrupled in size. As he gets bigger, his delicate facial features are becoming more refined, with his ears, upper lip, and the teeny tip of his nose all clearly visible. His eyelids will also take shape for the first time this week and his heart is growing stronger by the day."
+        </item>
+        <item>
+            "Even though you still have to wait another eight weeks to find out if your new addition will be a boy or a girl, this week, your baby gets the goods she'll need to, well, make her own baby one day. That's right — reproductive organs are beginning to form now, along with some other key organs, like the pancreas and gallbladder. At this point your baby has doubled in size and her head, which is about half the length of her entire body, is tucked down toward her chest.
+            \n\nHer tiny fingers are growing longer, and the ends are slightly enlarged right now — this is where those unique fingerprints will ultimately form."
+        </item>
+
+        <item>
+            "Up until now your baby was classified as an embryo, but by the end of this week he will be a fetus and lots of changes are on the way. Paddle-like, or webbed, hands and feet will now separate into fingers and toes, bones will begin to harden and his kidneys are now producing urine. Most impressive? At this point your baby's brain is developing at astounding rates — nearly 250,000 neurons are forming every minute!
+            \n\nThe end of the embryonic stage also marks a turning point for development dangers — your baby is much less susceptible to them now."
+        </item>
+        <item>
+            "Did you know your baby can breathe underwater? She's doing it right now. At weeks 10 and 11, the fetus will start to inhale and exhale small amounts of amniotic fluid, which helps your baby's lungs to grow and develop. Also this week, your baby's ears are scooting up to the sides of his head. Sure, your baby's head is still disproportionally large compared to the rest of his body, but this will even out as he continues to grow and develop in the womb."
+        </item>
+        <item>
+            "As your baby's muscles start to bulk up at this stage, he's getting busy stretching and kicking. When you put your hand on your belly, your baby will likely wiggle in response because his reflexes are starting to develop — though it's too early to feel his movements. He'll also start to open and close his fingers, curl his toes, and jerk and kick his arms and legs."
+        </item>
+
+        <item>
+            "Your baby is constantly getting bigger and cuter, and his face is looking more human-like every day. His ears have moved up from his neck into place and his eyes — which are looking more and more like your baby blues (or browns, or greens) — have moved from the sides of the head to the front of the face. Up until now, his head has been outpacing his body, but now his body is growing faster.
+            \n\nHis legs still need to grow longer, but this week his arms will lengthen to be proportionate with his body, and he'll be able to stick his thumb in his mouth. Also by now, all of your baby's essential organs and systems have formed."
+        </item>
+        <item>
+            "The roof of your baby's tiny mouth is fully formed now, and her constant sucking reflexes are helping to create full, cherubic cheeks. If you're having a boy, the prostate is forming, and if you're having a girl, her ovaries are moving down into her pelvis."
+        </item>
+        <item>
+            "Lanugo, your baby's first ultrafine, downy hair, now covers his back, shoulders, ears, and forehead. It helps him retain body heat, but once he gains enough fat to do the job, this hair will fall off — probably before birth. Facial expressions are your baby's newest trick — he can frown, squint, grimace and wince. Don't worry — he's just flexing his facial muscles, not indicating his mood."
+        </item>
+
+        <item>
+            "Your baby's delicate skeleton continues to harden from rubbery cartilage to bone. Even so, his bones will remain somewhat flexible for an easier trip through the birth canal. The umbilical cord has fully matured with one vein and two arteries that are protected by Wharton's jelly (a thick substance that makes the cord slippery so it can move freely around your baby). By the way, if you're having a girl, hundreds of thousands of eggs are forming in her ovaries this week — your future grandchildren!"
+        </item>
+        <item>
+            "Finally, your baby's arms, legs, and trunk have caught up to the size of his head. Baby starts plumping up this week, as body fat is deposited under his skin and sweat glands develop. Also worth noting: The placenta is almost as big as your baby. It provides vitamins, minerals, proteins, fats, and oxygen, along with removing waste and filtering carbon dioxide."
+        </item>
+        <item>
+            "Do you and your partner talk to your baby? Well, with the bones and nerves in her ears now developed enough to function, she can hear all sorts of sounds — including blood coursing through the umbilical cord, your growling tummy, and your heartbeat. In fact, sudden or loud noises may startle her. Go ahead and sing, tell stories or play music for your baby now. Even though your baby doesn't understand what these sounds are now, eventually she'll recognize your voice better than any other."
+        </item>
+
+        <item>
+            "Vernix caseosa begins to coat the skin. The greasy, cheese-like white coating helps regulate body temperature and protects your baby's skin while it's submerged in amniotic fluid. By the time your baby is born, most of the vernix will be gone. Your baby's heartbeat is growing stronger now and it's about twice as fast as yours."
+        </item>
+        <item>
+            "Your baby is as happy as a clam in your womb, as his well-developed limbs continue to explore by curling, flexing, and kicking. And as his hair, nails and eyebrows continue to sprout, your fetus is looking remarkably more and more like Mom and Dad every day."
+        </item>
+        <item>
+            "Part of your baby's growth spurt at this point is likely because his stomach is now equipped to start absorbing energy-boosting nutrients from the amniotic fluid he's swallowing in there. Most of your baby's nourishment is still coming directly from the placenta, though."
+        </item>
+
+        <item>
+            "Your baby's previously see-through skin will now become opaque. However, it will remain wrinkly, red, and covered in vernix until more fat helps to fill it out. Also this week, he's fine-tuning his sense of touch (thanks to maturing brain cells and nerve endings). Your baby may experiment with these newfound skills by feeling his face or anything else he can get his hands on.
+            \n\nThis week, your baby's eyebrows start growing and hair will start sprouting on the scalp, but this varies — your baby may grow a thick head of dark hair or he may enter the world bald."
+        </item>
+        <item>
+            "Billions of brain cells will develop in your baby's brain over the next couple of weeks. These will control all of your baby's movements and sensory, and basic life functions like breathing. Also around this time, some major changes are happening with your baby's lungs. Surfactant is being produced, a substance that enables the air sacs to inflate and the lungs to fully expand. Right now he's still breathing amniotic fluid, but when he's born he'll be ready for air."
+        </item>
+        <item>
+            "You might notice that your baby is very busy during the next few weeks. Right now she's small enough to have plenty of room to move and groove in your belly. She may even respond to your soothing voice or the rubbing of your belly by calming down, while loud sounds or a tap on your belly could cause her to become alert. Also, because the balance-controlling inner ear has developed, your baby can finally tell if she's upside down or right side up, so moving around takes on new meaning."
+        </item>
+
+        <item>
+            "Your baby's first bowel movement has been forming in the large intestine. The thick, dark poop is called meconium and it's typically excreted shortly after he's born. Occasionally babies pass this stool before they're born, which means it must be suctioned after birth to clear it from the lungs."
+        </item>
+        <item>
+            "Your baby has settled into a distinct sleep-wake pattern. You may notice that sometimes he's very active and kicking or punching, and other times he sleeps. If you're lucky, these patterns will mimic yours."
+        </item>
+        <item>
+            "Your baby has been hiccuping every once in a while for several weeks, and now you might actually feel these baby hiccups, which are triggered by the involuntary movements of his diaphragm. (In adults, this is followed by the quick closure of our vocal cords, which is what makes that familiar "hic" sound.) But because your baby's trachea is filled with fluid instead of air, his fetal hiccups don't make a sound. They will make your belly jump though, which is fun to see and feel!"
+        </item>
+
+        <item>
+            "Until now, your baby's eyelids have been fused shut, but this week he'll begin to open and close his eyes. What's more, his irises are now filled with pigment. Even if you could peek at the color of his peepers now, though, they might not stay that color, as a baby's eyes can change up until he's 6 months to 1 year old (especially if your little guy is born with baby blues)."
+        </item>
+        <item>
+            "Your baby is getting stronger by the minute. This week, her pushes, kicks, and rolls will likely occur more frequently — and forcefully. So don't be surprised if you feel an extra-strong karate chop or two! Around this time, the part of your baby's brain associated with intelligence and personality becomes far more complex. You can get to know your baby by paying attention to how she reacts to different foods, sounds, and lights."
+        </item>
+        <item>
+            "From this point on your baby will gain about a half pound each week. All that baby weight is for more than filling out his chubby cheeks. Now that all of his major body systems are in place and functioning, he needs padding to protect and insulate his organs. His built-up fat tissue will also help him regulate his body temperature after birth and provide the energy he needs. Because your baby is adding fat and growing bigger, you might find his movements become less frequent — it's getting harder for him to maneuver.
+            \n\nBut if you're not feeling any jabs or the occasional kick, tell your health care provider."
+        </item>
+
+        <item>
+            "Your baby is gaining more weight than height at this point. Because she's too big to stretch out, she's now forced into the fetal position, which she'll stay in until birth. This this week also boasts some exciting reproductive developments. Having a boy? His testicles are moving through the groin on their way into the scrotum. And if you've got a girl in there, her clitoris is already relatively formed."
+        </item>
+        <item>
+            "While a teeny part of you might be thinking "Get this kid outta here ASAP!" we bet the rest is sincerely hoping he'll stay in there a while longer. That said, you can breathe a sigh of relief for this week's important milestone. Almost all babies born at this stage or later survive and go on to have very healthy, normal lives. By this time all of his major organs are fully functioning except the lungs, which need just a bit more time to mature completely."
+        </item>
+        <item>
+            "Your baby doesn't have much elbow room these days — and, happily, that's probably going to mean fewer elbow jabs to the ribs for you. Because space in your uterus is running out, your baby becomes less active at this point in the pregnancy. You may also notice that her movements are affected by your daily routine — how much and when you eat, what position you are in and sounds from the world outside can all affect your baby's activity level."
+        </item>
+
+        <item>
+            "Your baby's preparing for his arrival in just a few short weeks! This week, the protective vernix caseosa (that cheese-like, white, waxy coating that's keeping his skin safe) begins to thicken, ensuring that his birthday suit stays smooth and well-moisturized during D-day. Your baby will likely arrive covered in the stuff, especially in the folds under his arms, behind his ears, and in the groin area. But it'll all be washed off very shortly after birth — during his first-ever bath."
+        </item>
+        <item>
+            "At this point, your unborn baby should be positioned with her head facing down toward the cervix and vagina. About 97 percent of babies have adopted this position by this point; the rest remain in what's known as breech position — when the butt or feet are in place to come out first. If your baby's among this minority, it does increase your odds of needing a C-section, but there's a good chance your healthcare provider can correct the problem by turning him around manually with pressure applied on your belly. Called an external version, this process has about a 65 percent success rate."
+        </item>
+        <item>
+            "Your baby is working hard to accumulate all the fat he can at this point, and that layer of fat has now rounded out his face. This build-up of fat — about 15 percent of his total weight— will help him maintain his body temperature and give him a store of energy. His sucking muscles, which are quite powerful, have also finished developing now, and are ready for their first real feeding — your baby's going to be hungry soon after he arrives."
+        </item>
+
+        <item>
+            "The umbilical cord begins passing antibodies to your baby in preparation for delivery. By stockpiling antibodies, your baby will be better prepared for the disease and germs he'll encounter outside the womb. Your baby's senses are also getting more time to hone their burgeoning skills. He can hear and recognize your voice. Once he's born you'll be able to see him turn his head in your direction when he hears you speak. He knows his mom! Along with his hearing, his eyesight is improving each day. His fingers are also becoming more coordinated. He can grasp his face or toes. And after birth he'll be able to grab onto your finger."
+        </item>
+        <item>
+            "Your baby's hanging out, enjoying her last few weeks of snuggly comfort in your womb. However, if she were born today, she would still be considered a full-term infant. Her brain — in charge of complicated jobs like regulating breathing, digestion, and circulation — is functioning better every day. Babies come to term anywhere between 38 and 42 weeks; your 40-week due date simply marks the midpoint of this period."
+        </item>
+        <item>
+            "By now your baby has likely reached his birth weight (typically between 6 and 9 pounds) and length (18 to 22 inches from head to toe). He's accumulated enough body fat to stay cozy after he's born, and your placenta continues to supply him with nutrients and antibodies that will help fend off illnesses. If you could sneak a peek at your baby's final moments before birth, you'd see that his head is down toward your pelvis (if he's not in the bottom-down or breech presentation, in which case your healthcare provider might suggest a cesarean section). Your baby's body will either be straight up and down, called longitudinal, or positioned at an angle, called oblique.
+            \n\nAlong with spying your baby's body position, if you could see his head, you'd notice that he's head-down and facing your spine, which is the most common position (called anterior presentation). But sometimes, babies present head-down but facing toward your abdomen. This is called occiput or cephalic posterior. Your baby might lean slightly to one side or the other, meaning that he is either "right" or "left" anterior, or "right" or "left" posterior."
+        </item>
+
+        <item>
+            "When your baby arrives, he will be evaluated and graded (zero to two points each) on the following factors: activity and muscle tone, pulse (heart rate), grimace response (medically known as "reflex irritability"), appearance (skin coloration) and respiration (breathing rate and effort). This sum will determine the baby's Apgar score — an initial measure of his health. Most healthy babies have an Apgar between seven and nine (few babies get a 10)."
+        </item>
+        <item>
+            "As amazing as it is to meet your baby for the first time, don't be alarmed if she's not exactly, um, as good-looking as you imagined she would be. Those delivered vaginally tend to have temporarily misshapen heads and puffy eyes. And your baby will probably be coated with vernix caseosa, but most of it will be washed off during the first bath. It takes most newborns a few weeks to get that adorable, chubby-cheeked baby look down pat."
+        </item>
+        <item>
+            "You're probably wondering what that stubborn little bugger could still possibly be doing in your womb! Most likely he's still happily moving about in your belly, and you should keep counting fetal kicks to be sure. He's also likely gaining weight, which means you may be giving birth to a bigger baby."
+        </item>
+    </string-array>
+
+    <string-array name="pregnancy_tips">
+        <item>
+            <![CDATA[
+                "
+                <ul>
+                    Congratulations! You're actively trying to conceive— and you might even be pregnant already! Here's what you need to do now:
+                    <li>&nbsp;Start taking a prenatal vitamin if you haven't already.</li>
+                    <li>&nbsp;Write down the date of your last period or two.</li>
+                    <li>&nbsp;With your partner, create a family health history, including any genetic or chromosomal disorders.</li>
+                    <li>&nbsp;Quit smoking, and focus on having a healthy diet and lifestyle.</li>
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Reduce your caffeine intake.</li>
+                    <li>&nbsp;Talk to your doctor about safe medications during pregnancy.</li>
+                    <li>&nbsp;Eat a healthy, balanced diet.</li>
+                    <li>&nbsp;Talk to your doctor about your exercise routine. Note: It won't harm your baby, and your body will tell you when it's time to slow down.</li>
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Look for the early signs of pregnancy.</li>
+                    <li>&nbsp;Buy an at-home pregnancy test.</li>
+                    <li>&nbsp;Learn what foods you should avoid during pregnancy.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Take a pregnancy test if you've missed your period</li>
+                    <li>&nbsp;Tell your partner the news!</li>
+                    <li>&nbsp;Make an appointment to see your doctor to confirm your pregnancy.</li>
+                    <li>&nbsp;Consider the alternative of a certified nurse-midwife.</li>
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Pick up a pregnancy book.</li>
+                    <li>&nbsp;Use this app to help you stay organized for the next 8 months.</li>
+                    <li>&nbsp;Buy a journal or memory book to record your milestones, symptoms, and questions for the next nine months.</li>
+                    <li>&nbsp;Sign up for your Due Date club or join an in-person pregnancy support group.</li>
+                    <li>&nbsp;Be sure to drink lots of water.</li>
+                    <li>&nbsp;Talk to your insurance company to find out which local doctors and hospitals are covered by your plan.</li>
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;If you're ready, start sharing the good news with family members and close friends.</li>
+                    <li>&nbsp;Make your partner the official kitty litter changer.</li>
+                    <li>&nbsp;Experiment with morning sickness remedies.</li>
+                    <li>&nbsp;Decide whether you like your doctor enough to stick with him or her through delivery. If not, start looking for a new one.</li>
+                </ul>
+                "
+            ]]>
+        </item>
+
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Schedule and prepare for your first prenatal visit, which should happen between 8 and 12 weeks.</li>
+                    <li>&nbsp;Compile a list of questions for your first doctor's appointment.</li>
+                    <li>&nbsp;Clear your beauty cabinet of any chemical-laden products like DEET-filled insect repellent.</li>
+                    <li>&nbsp;Buy a belly band to extend the life of your pants.</li>
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Shop for a new bra, whether it's a maternity bra or just a bigger, softer style.</li>
+                    <li>&nbsp;Make Kegel exercises a part of your daily routine.</li>
+                    <li>&nbsp;Pick up antacids in preparation for pregnancy heartburn, along with other drugstore staples.</li>
+                    <li>&nbsp;Make a dentist appointment.</li>
+                    <li>&nbsp;Discuss recommended prenatal tests with your doctor.</li>
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Create a baby budget.</li>
+                    <li>&nbsp;Make a pre-baby to-do list of all the things you want accomplish or enjoy before the baby arrives.</li>
+                    <li>&nbsp;Look at your household cleaners and swap in eco-friendly ones for any toxic ones.</li>
+                    <li>&nbsp;Eat plenty of fruits and vegetables.</li>
+                    <li>&nbsp;Go for a walk, or do 30 minutes of another moderate exercise, and make it a part of your daily routine now.</li>
+                </ul>
+                "
+            ]]>
+        </item>
+
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Wash your hands frequently to avoid getting a cold or the flu.</li>
+                    <li>&nbsp;Try natural remedies for indigestion.</li>
+                    <li>&nbsp;Go shopping for maternity clothing.</li>
+                    <li>&nbsp;Review your company's maternity leave policy.</li>
+                    <li>&nbsp;If you're hoping for a VBAC (vaginal birth after cesarean) but your doctor isn't on board, consider jumping ship for a practitioner who will consider it.</li>
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Moisturize your belly, hips and thighs daily to prevent itchy, dry skin as it stretches.</li>
+                    <li>&nbsp;Avoid hot tubs, saunas, steam rooms, intense hot-weather workouts, super-hot baths, or anything else that could raise your body temperature above 102 degrees.</li>
+                    <li>&nbsp;Get a first-trimester screening to help your practitioner decide what tests may be warranted.</li>
+                    <li>&nbsp;If it's recommended by your doctor, get tested for chromosomal abnormalities through a nuchal translucency (NT) and chorionic villus sampling (CVS).</li>
+                    <li>&nbsp;Listen to the baby's heartbeat with a Doppler at your doctor's appointment, if possible.</li>
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Plan a babymoon vacation.</li>
+                    <li>&nbsp;Buy a body pillow for sleeping.</li>
+                    <li>&nbsp;Be sure to stretch and warm up before exercise because your ligaments and joints are loosened up now.</li>
+                    <li>&nbsp;Until you give birth, avoid any exercises that require you to lie flat on your back (crunches, Pilates, etc.).</li>
+                    <li>&nbsp;If you're having multiples, your doctor will be able to spot the extra babies at your next ultrasound.</li>
+                </ul>
+                "
+            ]]>
+        </item>
+
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Begin thinking about baby names.</li>
+                    <li>&nbsp;Start sleeping on your side.</li>
+                    <li>&nbsp;Research pediatricians.</li>
+                    <li>&nbsp;Eat smaller meals more frequently to stave off heartburn.</li>
+                    <li>&nbsp;Consider borrowing previously worn maternity clothing from friends or family.</li>
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Tell your family and friends your good news if you haven't already.</li>
+                    <li>&nbsp;Break the news to your boss, too.</li>
+                    <li>&nbsp;Take advantage of your energy boost by checking things off your to-do list at home and at work.</li>
+                    <li>&nbsp;Start taking weekly pictures of your beautiful belly.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Sign up for a prenatal yoga class.</li>
+                    <li>&nbsp;Strengthen your abs with pelvic tilts.</li>
+                    <li>&nbsp;Talk to you partner about finding out the sex of your baby.</li>
+                    <li>&nbsp;Over 35? Schedule an amniocentesis if it's recommended.</li>
+                    <li>&nbsp;As your doctor about the quad marker screen.</li>
+                </ul>
+                "
+            ]]>
+        </item>
+
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Be sure to get plenty of calcium now, from low-fat dairy foods or supplements.</li>
+                    <li>&nbsp;Tour local birth centers.</li>
+                    <li>&nbsp;Start your baby registry.</li>
+                    <li>&nbsp;Ask your mother or grandmother about their birthing experiences.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Combat your forgetful "pregnancy brain" with lots of notes and reminders.</li>
+                    <li>&nbsp;Treat yourself to a prenatal massage.</li>
+                    <li>&nbsp;Sign up for a childbirth class.</li>
+                    <li>&nbsp;Start a college fund for baby-to-be by opening a 529 account or a special savings account.</li>
+                    <li>&nbsp;Pick up a saline spray or humidifier to alleviate congestion caused by pregnancy.</li>
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Consider signing up for infant CPR, prenatal breastfeeding, or newborn-care classes.</li>
+                    <li>&nbsp;Check your desk chair to see if a more supportive one or a footstool could help with back pain.</li>
+                    <li>&nbsp;Is it a boy or is it a girl? Find out if desired at your mid-pregnancy ultrasound.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Scan your pix from your ultrasound and share them via e-mail and Facebook.</li>
+                    <li>&nbsp;Have a date night.</li>
+                    <li>&nbsp;Research nursery furniture.</li>
+                    <li>&nbsp;Considering a home birth? Research the pros and cons.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+        <item><![CDATA[
+
+                "
+                <ul>
+
+                    <li>&nbsp;Talk to your other half about how you'll handle life after baby.</li>
+                    <li>&nbsp;Make sure you have flats or sensible shoes — not 3-inch heels — to live in for the next four months.</li>
+                    <li>&nbsp;Know the symptoms and risks of preeclampsia.</li>
+
+                </ul>
+                "
+
+        ]]></item>
+        <item><![CDATA[
+
+                "
+                <ul>
+
+                    <li>&nbsp;Research the pros and cons of breastfeeding. Decide what's best for you and your baby once you have all the facts.</li>
+                    <li>&nbsp;Get organized and tackle pending projects around the house.</li>
+                    <li>&nbsp;Buy a new maternity bra — again.</li>
+
+                </ul>
+                "
+
+        ]]></item>
+
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Work with your gracious baby shower host to plan party logistics.</li>
+                    <li>&nbsp;Now that you know the sex of the baby, take a second look at baby names.</li>
+                    <li>&nbsp;Prevent varicose veins. Avoid crossing your legs and long periods of sitting or standing, which may result in blood pooled in the legs.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Go shopping for more maternity clothes.</li>
+                    <li>&nbsp;As you think about the baby's first name, don't forget to consider what last name he will take.</li>
+                    <li>&nbsp;Test your carbon monoxide and smoke detectors.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Look into childcare options if you're planning to return to work.</li>
+                    <li>&nbsp;Start planning the nursery.</li>
+                    <li>&nbsp;Get tested for gestational diabetes.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Update or attain life and disability insurance, and add chosen guardianship to your will.</li>
+                    <li>&nbsp;Write a birth plan.</li>
+                    <li>&nbsp;Pre-register at your hospital or birthing center, if possible.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Interview potential pediatricians. Find out which local doctors are covered by your insurance and seek recommendations.</li>
+                    <li>&nbsp;Do any last-minute travel. It's best to avoid travel once the third trimester hits.</li>
+                    <li>&nbsp;Take the glucose-screening test.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Choose a color for the nursery.</li>
+                    <li>&nbsp;Research cord blood banking.</li>
+                    <li>&nbsp;Find a birth douala, if desired.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Start seeing your doctor or midwife every two weeks.</li>
+                    <li>&nbsp;Update your retirement beneficiaries.</li>
+                    <li>&nbsp;Babyproof your house.</li>
+                    <li>&nbsp;Help your partner to feel the baby's kicks.</li>
+                    <li>&nbsp;If your fingers are swollen, take your rings off and store them in a safe place until after delivery.</li>
+                    <li>&nbsp;Depending on your and your partner's blood types, you may receive an injection of RhoGAM.</li>
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Enjoy your baby shower!</li>
+                    <li>&nbsp;Start shopping for birth announcements and decide whether you'll choose paper or electronic ones.</li>
+                    <li>&nbsp;If you live in an older home, ask your partner to test for lead-based paint in the nursery and remove it if necessary.</li>
+                    <li>&nbsp;Eat a high-fiber diet to help prevent constipation and hemorrhoids.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Buy a car seat, stroller, and any other important baby gear that you didn't receive at your shower.</li>
+                    <li>&nbsp;Count fetal kicks.</li>
+                    <li>&nbsp;Pack your hospital bag and one for your partner.</li>
+                    <li>&nbsp;Know the signs of premature labor.</li>
+                    <li>&nbsp;Try exercises designed to help prepare your body for D-day.</li>
+                </ul>
+                "
+            ]]>
+        </item>
+
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Eat foods rich in iron.</li>
+                    <li>&nbsp;If you plan to hire a baby nurse, start seeking recommendations.</li>
+                    <li>&nbsp;Plan your maternity leave.</li>
+                    <li>&nbsp;Prepare a baby first-aid and an emergency kit.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Plan care for your other children or your pets for when you go into labor.</li>
+                    <li>&nbsp;Get a haircut.</li>
+                    <li>&nbsp;Set up the baby's nursery.Start seeing your doctor or midwife weekly through delivery.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Start reading about newborn care.</li>
+                    <li>&nbsp;Clean out your car to make room for baby.</li>
+                    <li>&nbsp;Install your car seat and visit the National Highway Traffic Safety Administration's Web site to locate an inspection station near you so you can be sure you did it correctly.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Call your insurance company to add your baby-to-be to your policy.</li>
+                    <li>&nbsp;Get tested for Group B strep (GBS).</li>
+                    <li>&nbsp;Buy any items you'll need for postpartum recovery.</li>
+                    <li>&nbsp;Meet with several pediatricians to make your final choice.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Buy a baby book.</li>
+                    <li>&nbsp;If you plan to try breastfeeding, get the number of a recommended lactation consultant or join a local La Leche League International group.</li>
+                    <li>&nbsp;Review your baby registry to see what items you still need to purchase before baby's arrival.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Schedule a non-stress test if it's recommended.</li>
+                    <li>&nbsp;Review your birth plan with your doctor, midwife, doula, or any others involved.</li>
+                    <li>&nbsp;Sleep in, take naps and get as many extra Z's as you can.</li>
+                    <li>&nbsp;Send thank-you notes for your shower gifts.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;If you have other children, be sure to prepare them for their sibling's arrival.</li>
+                    <li>&nbsp;Plan for your first few weeks with baby by cooking and freezing a few nights' or weeks' worth of dinners.</li>
+                    <li>&nbsp;Stock up on diapers and formula.</li>
+                    <li>&nbsp;Wash the baby clothes and bedding.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Tie up any loose ends with finances or medical insurance.</li>
+                    <li>&nbsp;Make a list of who you want to contact when the baby arrives, including phone numbers and e-mail addresses.</li>
+                    <li>&nbsp;Nail down your final choices for baby names.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Practice any relaxation or breathing techniques you've learned.</li>
+                    <li>&nbsp;Wrap up at work and create a memo for your fill-in, just in case you go into labor before your due date.</li>
+                    <li>&nbsp;Discuss with your partner the option of cutting the umbilical cord.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Be ready for your water to break, or for the mucus plug or bloody show.</li>
+                    <li>&nbsp;Time your contractions.</li>
+                    <li>&nbsp;Buy a few cold packs at the drugstore to use when the perineal cold packs from the hospital run out.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+                "
+                <ul>
+
+                    <li>&nbsp;Enjoy those last few kicks and the amazing feeling of having your baby inside of you.</li>
+                    <li>&nbsp;Do squats to help prepare your body for labor.</li>
+                    <li>&nbsp;Take advantage of the extra time to rest.</li>
+
+                </ul>
+                "
+            ]]>
+        </item>
+        <item><![CDATA[
+
+                "
+                <ul>
+
+                    <li>&nbsp;Try a few tricks to bring on labor (or at least keep your mind off it) — eat spicy foods, have sex, take a walk or stimulate your nipples.</li>
+                    <li>&nbsp;Have the non-stress test again, or a contraction stress test.</li>
+                    <li>&nbsp;Go to the hospital and get induced.</li>
+
+                </ul>
+                "
+
+        ]]></item>
+    </string-array>
+
+    <string-array name="pregnancy_tracker_info_array">
+        <item>
+            "The development of pregnancy is counted from the first day of the woman’s last normal menstrual period (LMP), even though the development of the fetus does not begin until conception, which is about two weeks later.
+            \n\nPregnancy is calculated from this day because each time a woman has a period, her body is preparing for pregnancy. Counting from the LMP, most women are pregnant an average of 280 days. Calculating from the LMP also gives a standard of measurement for health care providers to follow since it is extremely difficult to know exactly when conception occurred."
+        </item>
+
+        <item>
+            "During your prenatal checkups, your healthcare provider will monitor how far along you are. Don’t be surprised, though, if your provider gives you a slightly different due date than the one you calculated.
+            \n\nAlso, most babies don’t arrive exactly on their due date. Every pregnancy is unique, and only a small percentage of babies are born right on time. Babies are typically born between weeks 38 and 42, and it’s totally normal for your baby to arrive any time during this window.
+            \n\nIf your baby is born pre-term, your doctor will be able to advise you on any extra care your baby might need. On the other hand, if your baby isn’t born by the end of week 42, your doctor may suggest inducing the labor to bring on a vaginal birth, or he may discuss the option of a cesarean section with you."
+        </item>
+
+        <item>
+            "First trimester (weeks 0-13): You might notice some early signs of pregnancy, such as morning sickness and food cravings. Your provider will be able to confirm your pregnancy and set up your prenatal visits to make sure you and your baby stay healthy and safe.
+             \n\nSecond trimester (weeks 14-27): This trimester is often referred to as the honeymoon phase of pregnancy. You may feel as if you have some extra energy to get things done, like baby-proofing your home, going to prenatal classes, and doing some gentle pregnancy exercise.
+             \nIf you aren’t already, this may also be a good time to start doing Kegel exercises to strengthen your pelvic floor muscles. You can do these simple muscle clenches anywhere, and they’re beneficial not only during pregnancy and labor, but afterwards as well.
+             \n\nThird trimester (weeks 28-42): You’re nearly there! As you get closer to the birth of your baby, you’ll want to get prepared by making sure you have all the right baby gear. But remember to take the opportunity to slow down and rest whenever you can."
+        </item>
+    </string-array>
+
+    <string-array name="baby_kick_counter_info_array">
+        <item>
+            "Counting your baby's kicks (and jabs, pokes and rolls!) is important because a change in movement in the third trimester is often the earliest sign of distress in a baby. When moms know what is normal for their baby, then they are more alert to potential red flags."
+        </item>
+        <item>
+            "You should start to feel your baby move between around 16 and 24 weeks of pregnancy. If this is your first baby, you might not feel movements until after 20 weeks. If you have not felt your baby move by 24 weeks, tell your midwife. They'll check your baby's heartbeat and movements."
+        </item>
+        <item>
+            "A common way to do a kick count is to see how much time it takes to feel 10 movements. Ten movements (such as kicks, flutters, or rolls) in 1 hour or less are considered normal."
+        </item>
+        <item>
+            "Doing a kick count generally takes 10 to 15 minutes, but it might take as long as two hours. Overweight women may have a harder time perceiving kicks, Fretts says. Also remember that the sensations won't be as sharp and noticeable as your pregnancy progresses and the baby has less room to move around."
+        </item>
+        <item>
+            "Call your doctor or midwife if it takes longer than two hours to count 10 kicks; a non-stress test should be performed to check the baby's heart rate. \"This rules out a life-threatening emergency, but it doesn't address the underlying reason for decreased movement,\" Fretts says."
+        </item>
+        <item>
+            "Also be aware that if the idea of charting kicks makes you anxious, studies have shown that simply paying attention to your baby's movements in utero and reporting potential problems to your doctor or midwife can also reduce the possibility of stillbirth."
+        </item>
+        <item>
+            "At approximately 20-22 weeks most moms will begin to feel the baby move. … Until around 30 weeks baby movements will be sporadic. Some days the movements are many, other days the movements are fewer. Healthy babies in normal pregnancies will move here and there, now and again, without strong or predictable activity."
+        </item>
+        <item>
+            "One study, published in 2001 in the journal Human Fetal and Neonatal Movement Patterns, found that boys may move around more in the womb than girls. The average number of leg movements was much higher in the boys compared to the girls at 20, 34 and 37 weeks, that study found"
+        </item>
+    </string-array>
+
+    <string-array name="contraction_timer_info_array">
+        <item>
+            "The time between contractions includes the length or duration of the contraction and the minutes in between the contractions (called the interval). Mild contractions generally begin 15 to 20 minutes apart and last 60 to 90 seconds. The contractions become more regular until they are less than 5 minutes apart."
+        </item>
+        <item>
+            "For you, early contractions may feel quite painless or mild, or they may feel very strong and intense. … Typically, real labor contractions feel like a pain or pressure that starts in the back and moves to the front of your lower abdomen."
+        </item>
+        <item>
+            "Early labor will last approximately 8-12 hours. Your cervix will efface and dilate to 3 cm. Contractions will last about 30-45 seconds, giving you 5-30 minutes of rest between contractions. Contractions are typically mild and somewhat irregular but become progressively stronger and more frequent."
+        </item>
+        <item>
+            "During contractions, the abdomen becomes hard. Between contractions, the uterus relaxes and the abdomen becomes soft. The way a contraction feels is different for each woman, and may feel different from one pregnancy to the next. But labor contractions usually cause discomfort or a dull ache in your back and lower abdomen, along with pressure in the pelvis. Contractions move in a wave-like motion from the top of the uterus to the bottom.
+            Some women describe contractions as strong menstrual cramps. Unlike false labor contractions or Braxton Hicks contractions, true labor contractions do not stop when you change your position or relax. Although the contractions may be uncomfortable, you will be able to relax in between contractions."
+        </item>
+        <item>
+            Before \"true\" labor begins, you may have \"false\" labor pains, also known as Braxton Hicks contractions. These irregular uterine contractions are perfectly normal and may start to occur in your second trimester, although more commonly in your third trimester of pregnancy. They are your body\'s way of getting ready for the \"real thing.\"
+        </item>
+        <item>
+            "When timing contractions, start counting from the beginning of one contraction to the beginning of the next. The easiest way to time contractions is to write down on paper the time each contraction starts and its duration, or count the seconds the actual contraction lasts.
+            \n\nYou do not have to do these manually, use the contraction timer for automated timing and record-keeping!"
+        </item>
+        <item>
+            "Contractions are considered regular when the duration and frequency are stable over a period of time. An example is contractions lasting 60 seconds and coming five minutes apart for an hour. Irregular contractions. Contractions are irregular when there isn't a stable pattern."
+        </item>
+        <item>
+            "But by lying down, a pregnant woman is putting the weight of her belly on blood vessels in the abdomen. That pressure may weaken the strength of her contractions, which could slow the dilation of her vagina and the descent of the baby through the birth canal, the authors write."
+        </item>
+        <item>
+            "It’s best to head to the hospital or birth center during the active labor stage, when the contractions are strong and about five minutes apart. You may hear about the “5-1-1” rule, which recommends that women go to the hospital when contractions are five minutes apart, last for one minute, and have been that patternfor one hour.
+            \n\nYou should know that while stronger and more frequent contractions typically correlate with increased cervical dilation, that’s not always true, which is problematic because hospitals typically use cervical dilation (not contractions strength) to determine whether or not you should be admitted. So, if you’re experiencing strong contractions but your cervix hasn’t dilated more than three centimeters yet, then you may not be admitted. And, even more problematic, every hospital sets its own rule about that exact measurement of cervical dilation.
+            \n\nIf your contractions are manageable, and your cervix hasn’t dilated more than three centimeters yet, then you will be advised to return home. You will also be given guidance about how long to wait until returning to the hospital and what to note in the pattern of your contractions. If you’re struggling with the pain, you may also be prescribed medication to help you manage it until you can be admitted."
+        </item>
+    </string-array>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

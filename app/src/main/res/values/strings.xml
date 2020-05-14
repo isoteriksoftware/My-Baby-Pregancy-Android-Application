@@ -1,0 +1,244 @@
+<resources>
+    <string name="app_name">My Baby</string>
+    <string name="pregnancy_tracker">Pregnancy Tracker</string>
+    <string name="baby_kick_counter">Baby Kick Counter</string>
+    <string name="contraction_timer">Contraction Timer</string>
+    <string name="pregnancy_tips">Pregnancy Health Tips</string>
+    <string name="guide">Guide</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="title_activity_pregnancy_tracker">Pregnancy Tracker</string>
+    <string name="pregnancy_weeks_format">You\'re %d %s pregnant</string>
+    <string name="stop_tracking_pregnancy">Stop Tracking Pregnancy</string>
+    <string name="baby_stats">Baby Stats</string>
+    <string name="length">Length:</string>
+    <string name="weight">Weight:</string>
+    <string name="size_of">Size of:</string>
+    <string name="last_menstrual_period">Last Menstrual Period</string>
+    <string name="change_date">Change Date</string>
+    <string name="weekly_update">Weekly Update</string>
+    <string name="due_date">Due Date (estimated)</string>
+    <string name="initial_kick_counter_status_message">Click the foot icon on first kick to start counting</string>
+    <string name="status_kick_counter_in_progress">Baby Kick counting in progress...</string>
+    <string name="status_contraction_timer_in_progress">Contraction timing in progress...</string>
+    <string name="status_resting_in_progress">Resting in progress...</string>
+    <string name="initial_timer_value">00:00:00</string>
+    <string name="kicks">Kicks</string>
+    <string name="start">Start</string>
+    <string name="initial_time_label_short">00:00 PM</string>
+    <string name="recent">Recent</string>
+    <string name="reset">Reset</string>
+    <string name="finish">Finish</string>
+    <string name="date">Date</string>
+    <string name="duration">Duration</string>
+    <string name="total_kicks">Total Kicks</string>
+    <string name="total_duration">Total Duration</string>
+    <string name="total_sessions">Total Sessions</string>
+    <string name="kicks_per_session">Kicks Per Session</string>
+    <string name="clear_counter_data">Clear Counter Data</string>
+    <string name="contraction">Contraction</string>
+    <string name="contractions_per_session">Contractions Per Session</string>
+    <string name="total_rest">Total Rest</string>
+    <string name="initial_contraction_timer_status_message">Click the timer icon to start timing</string>
+    <string name="contractions">Contractions</string>
+    <string name="rest">Rest</string>
+    <string name="total_contractions">Total Contractions</string>
+    <string name="preferences_name">My_Baby_Application_Preferences</string>
+    <string name="info_no_pregancy_data">There are no pregnancy data available for now. Click the button below to start tracking pregnancy</string>
+    <string name="start_tracking_pregnancy">Start Tracking Pregnancy</string>
+    <string name="no_data_available">No data available for now</string>
+    <string name="last_lmp_date_format">dd MMMM yyyy, E</string>
+    <string name="due_date_format">dd MMMM yyyy, E</string>
+    <string name="simple_date_format">dd MMM</string>
+    <string name="time_format">HH:mm:ss</string>
+    <string name="time_format_full">hh:mm:ss a</string>
+    <string name="manual_time_format">%s:%s:%s</string>
+    <string name="baby_this_week">Your Baby this Week</string>
+
+    <string name="has_pregnancy_tracker_data_key">HAS_PREGNANCY_TRACKER_DATA</string>
+    <string name="lmp_year_key">LMP_YEAR</string>
+    <string name="lmp_month_key">LMP_MONTH</string>
+    <string name="lmp_day_key">LMP_DAY</string>
+    <string name="baby_due_key">BABY_DUE</string>
+    <string name="first_time_launched_key">FIRST_TIME_LAUNCHED</string>
+    <string name="first_baby_kick_counting_key">FIRST_BABY_KICK_COUNTING</string>
+    <string name="first_contraction_timing_key">FIRST_CONTRACTION_TIMING</string>
+    <string name="first_pregnancy_tracking_initial_key">FIRST_PREGNANCY_TRACKING_INITIAL</string>
+    <string name="first_pregnancy_tracking_after_lmp_key">FIRST_PREGNANCY_TRACKING_AFTER_LMP</string>
+
+    <string name="confirm_start_pregnancy_tracking_title">Start Tracking Now?</string>
+    <string name="confirm_start_pregnancy_tracking">To start tracking your pregnancy, we need to record your Last Menstrual Period (LMP) date.
+        \n\nThe relevance of the tracker depends on the date you provide. If you do not remember your LMP date, make a close enough guess.
+    </string>
+    <string name="confirm_change_lmp_date_title">Change LMP Date Now?</string>
+    <string name="confirm_change_lmp_date">
+        This will reset the tracker!
+        \n\nDo you really want to change your Last Menstrual Period date?
+    </string>
+    <string name="confirm_stop_pregnancy_tracker_title">Stop Tracker Now?</string>
+    <string name="confirm_stop_pregnancy_tracker">
+        This will reset the tracker!
+        \n\nDo you really want to stop tracking pregnancy now?
+    </string>
+    <string name="confirm_reset_kick_counter_title">Reset Kick Counter?</string>
+    <string name="confirm_reset_kick_counter">
+        This will reset the counter! All the data for this session will be lost.
+        \n\nDo you really want to reset the counter now?
+    </string>
+    <string name="confirm_finish_kick_counter_title">Finish Kick Counting?</string>
+    <string name="confirm_finish_kick_counter">
+        This will complete this session! All the data for this session will be saved.
+        \n\nDo you really want to finish the session now?
+    </string>
+    <string name="confirm_clear_kick_counter_data_title">Clear Data?</string>
+    <string name="confirm_clear_kick_counter_data_text">
+        This will completely delete all your baby kick data. This action can not be reversed!
+        \n\nDo you really want to clear data now?
+    </string>
+    <string name="confirm_reset_contraction_timer_title">Reset Timer?</string>
+    <string name="confirm_reset_contraction_timer">
+        This will reset the timer! All the data for this session will be lost.
+        \n\nDo you really want to reset the timer now?
+    </string>
+    <string name="confirm_finish_contraction_timer_title">Finish Contraction Timing?</string>
+    <string name="confirm_finish_contraction_timer">
+        This will complete this session! All the data for this session will be saved.
+        \n\nDo you really want to finish the session now?
+    </string>
+    <string name="confirm_clear_contraction_timer_data_title">Clear Data?</string>
+    <string name="confirm_clear_contraction_timer_data_text">
+        This will completely delete all your contraction data. This action can not be reversed!
+        \n\nDo you really want to clear data now?
+    </string>
+    <string name="confirm_exit_title">Exit?</string>
+    <string name="confirm_exit_text">
+        This will terminate the process.
+        \n\ndo you really want to leave now?
+    </string>
+
+    <string name="error_message_header">Error!</string>
+    <string name="error_invalid_lmp_date">
+        The Last Menstrual Period date that you chose is invalid, please choose a valid date!
+        \n\nYour LMP date should be less than 280 days since then.
+    </string>
+    <string name="error_save_data_failed">An error occurred while attempting to save session data!</string>
+
+    <string name="max_pregnancy_days">280</string>
+    <string name="current_week_format">Week  %d</string>
+    <string name="pregnancy_week_format">Week  %d of Pregnancy</string>
+
+    <string name="daily_notification_title">Daily Pregnancy Tips</string>
+    <string name="daily_notification_text">Your pregnancy is a day older! Have you read any health tips today?</string>
+    <string name="weekly_notification_title_format">Pregnancy Update for Week %d</string>
+    <string name="baby_due_notification_title">Baby Due!</string>
+    <string name="baby_due_notification_text">After the long wait, it\'s finally time! Your little one is due today. Safe delivery!</string>
+
+    <string name="main_guide_pregnancy_tracker_title">Pregnancy Tracker</string>
+    <string name="main_guide_pregnancy_tracker_desc">The tracker automatically tracks your pregnancy data and provides relevant information about you and your baby. Click the white circle to proceed</string>
+    <string name="main_guide_kick_counter_title">Baby Kick Counter</string>
+    <string name="main_guide_kick_counter_desc">A handy tool for counting your baby kicks!</string>
+    <string name="main_guide_contraction_timer_title">Contraction</string>
+    <string name="main_guide_contraction_timer_desc">Easily time contractions and discover how often they occur and other useful information</string>
+    <string name="main_guide_pregnancy_tips_title">Pregnancy Health Tips</string>
+    <string name="main_guide_pregnancy_tips_desc">Keep you and your baby healthy with health tips exclusively for pregnant women!</string>
+    <string name="main_guide_help_title">Application Guide</string>
+    <string name="main_guide_help_desc">You can always play this guide again by clicking here</string>
+    <string name="main_guide_export_title">Export Data</string>
+    <string name="main_guide_export_desc">Easily export your pregnancy reports in readable formats!</string>
+    <string name="main_guide_more_title">More Options</string>
+    <string name="main_guide_more_desc">Use this menu to learn more about the app including Disclaimers and Privacy Policies (it is recommended you check these out first before using the app)</string>
+
+    <string name="kick_counter_guide_status_title">Status Display</string>
+    <string name="kick_counter_guide_status_desc">Displays the current status of the counter. Click inside the circle to proceed.</string>
+    <string name="kick_counter_guide_timer_title">Timer Display</string>
+    <string name="kick_counter_guide_timer_desc">Displays the elapsed time</string>
+    <string name="kick_counter_guide_foot_title">Kick Trigger</string>
+    <string name="kick_counter_guide_foot_desc">Tap this when the baby kicks. Initially, this will kick off the timer, keep tapping as soon as you feel your baby kick</string>
+    <string name="kick_counter_guide_kicks_title">Kicks Display</string>
+    <string name="kick_counter_guide_kicks_desc">Displays how many times the baby kicked</string>
+    <string name="kick_counter_guide_start_title">Start Time Display</string>
+    <string name="kick_counter_guide_start_desc">Displays the time the baby first kicked</string>
+    <string name="kick_counter_guide_recent_title">Recent Time Display</string>
+    <string name="kick_counter_guide_recent_desc">Displays the time the baby last kicked</string>
+    <string name="kick_counter_guide_reset_title">Resetting Trigger</string>
+    <string name="kick_counter_guide_reset_desc">Resets the counter (clears all data for this session!)</string>
+    <string name="kick_counter_guide_finish_title">Session Completion Trigger</string>
+    <string name="kick_counter_guide_finish_desc">Completes the session (saves all data for the session!)</string>
+
+    <string name="contraction_timer_guide_status_title">Status Display</string>
+    <string name="contraction_timer_guide_status_desc">Displays the current status of the timer. Click inside the circle to proceed.</string>
+    <string name="contraction_timer_guide_timer_title">Timer Display</string>
+    <string name="contraction_timer_guide_timer_desc">Displays the elapsed time</string>
+    <string name="contraction_timer_guide_timerIcon_title">Contraction Trigger</string>
+    <string name="contraction_timer_guide_timerIcon_desc">Tap this when contraction starts. Initially, this will start timing the contraction. Tap again to rest when contraction stops. Continue this way until you no longer feel any contraction</string>
+    <string name="contraction_timer_guide_contractions_title">Contractions Display</string>
+    <string name="contraction_timer_guide_contractions_desc">Displays how many contractions you\'ve felt so far</string>
+    <string name="contraction_timer_guide_start_title">Start Time Display</string>
+    <string name="contraction_timer_guide_start_desc">Displays the time the first contraction was felt</string>
+    <string name="contraction_timer_guide_recent_title">Recent Time Display</string>
+    <string name="contraction_timer_guide_recent_desc">Displays the time the last contraction was felt</string>
+    <string name="contraction_timer_guide_reset_title">Resetting Trigger</string>
+    <string name="contraction_timer_guide_reset_desc">Resets the timer (clears all data for this session!)</string>
+    <string name="contraction_timer_guide_finish_title">Session Completion Trigger</string>
+    <string name="contraction_timer_guide_finish_desc">Completes the session (saves all data for the session!)</string>
+
+    <string name="pregnancy_tracker_initial_guide_title">Tracker Trigger</string>
+    <string name="pregnancy_tracker_initial_guide_desc">Click here to start tracking your pregnancy. Your\'re required to provide your Last Menstrual Period Date, this helps us provide relevant information and tips!</string>
+
+    <string name="pregnancy_tracker_lmp_weeks_guide_title">Pregnancy Weeks</string>
+    <string name="pregnancy_tracker_lmp_weeks_guide_desc">Displays your pregnancy weeks till date. This value is calculated from your Last Menstrual Period (LMP) date.\n\nThe next tab provides more pregnancy information!</string>
+    <string name="pregnancy_tracker_lmp_stop_guide_title">Stop Tracker Trigger</string>
+    <string name="pregnancy_tracker_lmp_stop_guide_desc">This stops the tracker. This will effectively clear all pregnancy data including Baby Kicks and Contractions data!</string>
+    <string name="pregnancy_tracker_lmp_lmpVal_guide_title">Last Menstrual Period</string>
+    <string name="pregnancy_tracker_lmp_lmpVal_guide_desc">Displays the Last Menstrual Period date you provided during initial setup</string>
+    <string name="pregnancy_tracker_lmp_changeLMP_guide_title">Change Last Menstrual Period Date</string>
+    <string name="pregnancy_tracker_lmp_changeLMP_guide_desc">Use this to change your Last Menstrual Period Date. This restarts the tracker and will effectively clear all pregnancy data including Baby Kicks and Contractions data!</string>
+
+    <string name="pregnancy_tracker_info_header">Pregnancy Tracking</string>
+    <string name="baby_kick_counter_info_header">Baby Kick Counting</string>
+    <string name="contraction_timer_info_header">Contraction Timing</string>
+    <string name="app_version">Version 1.0</string>
+    <string name="about_message">The best pregnancy application any woman could ask for :)</string>
+    <string name="app_developer">Developed by Imran Abdulmalik</string>
+
+    <string name="disclaimer_message">
+        All the contents of this application, including medical opinion and any other health-related information, is for informational purposes only and should not be considered to be a specific diagnosis or treatment plan for any individual situation.
+        Use of this application and the information contained herein does not create a doctor-patient relationship. Always seek the direct advice of your own doctor in connection with any questions or issues you may have regarding your own health or the health of others.
+        \n\nSome of the images and contents are collected from open-source channels, the application developer do not claim any ownership of such resources!
+    </string>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

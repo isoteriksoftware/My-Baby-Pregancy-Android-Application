@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="30dp"
+            app:cardBackgroundColor="#5c6bc0"
+            app:cardCornerRadius="20dp"
+            app:cardElevation="20dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="20dp">
+
+                    <ImageView
+                        android:layout_width="51dp"
+                        android:layout_height="47dp"
+                        android:layout_marginRight="20dp"
+                        android:layout_weight="1"
+                        android:scaleType="fitXY"
+                        app:srcCompat="@drawable/ic_event_white_24dp" />
+
+                    <TextView
+                        android:id="@+id/labelCurrentWeek"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:gravity="start"
+                        android:text="@string/current_week_format"
+                        android:textColor="#FFFFFF"
+                        android:textSize="24sp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="10dp"
+            app:cardBackgroundColor="#5c6bc0"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="20dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="20dp">
+
+                    <ImageView
+                        android:id="@+id/imageView8"
+                        android:layout_width="51dp"
+                        android:layout_height="47dp"
+                        android:layout_marginRight="20dp"
+                        android:layout_weight="1"
+                        android:scaleType="fitXY"
+                        app:srcCompat="@drawable/ic_pregnant_woman_white_24dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:gravity="start"
+                        android:text="@string/due_date"
+                        android:textColor="#FFFFFF"
+                        android:textSize="24sp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/labelDueDate"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?attr/colorButtonNormal"
+                    android:padding="20dp"
+                    android:text="12 June 2020, Fri"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="30dp"
+            app:cardBackgroundColor="#5c6bc0"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="20dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/babyFruitImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:adjustViewBounds="true"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/fruit1" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="20dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:gravity="start"
+                        android:text="@string/baby_this_week"
+                        android:textColor="#FFFFFF"
+                        android:textSize="24sp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <TableLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="?attr/colorButtonNormal"
+                    android:padding="10dp"
+                    android:stretchColumns="*">
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <TextView
+                            android:id="@+id/textView6"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="@string/length"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/textView8"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginLeft="46dp"
+                            android:layout_toRightOf="@id/textView6"
+                            android:gravity="center_horizontal"
+                            android:text="@string/weight"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/textView10"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="false"
+                            android:layout_marginLeft="49dp"
+                            android:layout_toRightOf="@id/textView8"
+                            android:text="@string/size_of"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+                    </TableRow>
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <TextView
+                            android:id="@+id/labelBabyLength"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/textView6"
+                            android:layout_marginTop="16dp"
+                            android:text="20.16in"
+                            android:textSize="16sp"
+                            app:autoSizeTextType="uniform" />
+
+                        <TextView
+                            android:id="@+id/labelBabyWeight"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/textView8"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginLeft="49dp"
+                            android:layout_marginTop="18dp"
+                            android:layout_toRightOf="@id/labelBabyLength"
+                            android:gravity="center_horizontal"
+                            android:text="7.5 - 7.91lb"
+                            android:textAlignment="center"
+                            android:textSize="16sp"
+                            app:autoSizeTextType="uniform" />
+
+                        <TextView
+                            android:id="@+id/labelBabyFruitSize"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/textView8"
+                            android:layout_centerHorizontal="false"
+                            android:layout_marginLeft="29dp"
+                            android:layout_marginTop="19dp"
+                            android:layout_toRightOf="@id/labelBabyWeight"
+                            android:gravity="center_horizontal"
+                            android:text="meyer lemon"
+                            android:textSize="16sp"
+                            app:autoSizeTextType="uniform" />
+                    </TableRow>
+
+                </TableLayout>
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="30dp"
+            app:cardBackgroundColor="#5c6bc0"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="20dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="20dp">
+
+                    <ImageView
+                        android:id="@+id/imageView7"
+                        android:layout_width="51dp"
+                        android:layout_height="47dp"
+                        android:layout_marginRight="20dp"
+                        android:layout_weight="1"
+                        android:scaleType="fitXY"
+                        app:srcCompat="@drawable/ic_event_available_white_24dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:gravity="start"
+                        android:text="@string/weekly_update"
+                        android:textColor="#FFFFFF"
+                        android:textSize="24sp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/labelWeeklyUpdate"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="?attr/colorButtonNormal"
+                    android:padding="20dp"
+                    android:text="Sample update information goes here as soon as it is availaible (at runtime)"
+                    android:textAlignment="gravity"
+                    android:textSize="18sp"
+                    android:textStyle="normal"
+                    app:autoSizeTextType="uniform" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+</ScrollView>
