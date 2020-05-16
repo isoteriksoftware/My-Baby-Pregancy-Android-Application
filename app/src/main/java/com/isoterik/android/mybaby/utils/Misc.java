@@ -2,6 +2,7 @@ package com.isoterik.android.mybaby.utils;
 
 import android.content.Context;
 import android.content.res.TypedArray;
+import android.graphics.drawable.Drawable;
 import android.util.DisplayMetrics;
 
 import androidx.annotation.ArrayRes;
@@ -19,6 +20,7 @@ public class Misc
         for (int i = 0; i < typedArray.length(); i++)
             items[i] = typedArray.getResourceId(i, -1);
 
+        typedArray.recycle();
         return items;
     }
 
@@ -29,3 +31,31 @@ public class Misc
         return dp;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

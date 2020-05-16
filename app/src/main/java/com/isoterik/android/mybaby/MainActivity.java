@@ -5,11 +5,9 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Looper;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.ScrollView;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
@@ -17,15 +15,10 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.cardview.widget.CardView;
 import androidx.core.widget.NestedScrollView;
-import androidx.work.WorkInfo;
-import androidx.work.WorkManager;
 
-import com.isoterik.android.mybaby.utils.NotificationsUtil;
+import com.isoterik.android.mybaby.utils.AlertUtil;
 import com.isoterik.android.mybaby.utils.PreferencesUtil;
 import com.isoterik.android.mybaby.utils.TapTargetUtil;
-
-import java.util.List;
-import java.util.concurrent.ExecutionException;
 
 public class MainActivity extends AppCompatActivity
 {
@@ -85,24 +78,34 @@ public class MainActivity extends AppCompatActivity
 
     private void onCardClicked (View v)
     {
-        switch (v.getId())
+        try
         {
-            case R.id.cardPregnancyTracker:
-                Intent intent = new Intent(this, PregnancyTrackerActivity.class);
-                startActivity(intent);
-                break;
-            case R.id.cardBabyKickCounter:
-                intent = new Intent(this, BabyKickCounterActivity.class);
-                startActivity(intent);
-                break;
-            case R.id.cardContractionTimer:
-                intent = new Intent(this, ContractionTimerActivity.class);
-                startActivity(intent);
-                break;
-            case R.id.cardPregnancyTips:
-                intent = new Intent(this, PregnancyTipsActivity.class);
-                startActivity(intent);
-                break;
+            switch (v.getId())
+            {
+                case R.id.cardPregnancyTracker:
+                    Intent intent = new Intent(this, PregnancyTrackerActivity.class);
+                    startActivity(intent);
+                    break;
+                case R.id.cardBabyKickCounter:
+                    intent = new Intent(this, BabyKickCounterActivity.class);
+                    startActivity(intent);
+                    break;
+                case R.id.cardContractionTimer:
+                    intent = new Intent(this, ContractionTimerActivity.class);
+                    startActivity(intent);
+                    break;
+                case R.id.cardPregnancyTips:
+                    intent = new Intent(this, PregnancyTipsActivity.class);
+                    startActivity(intent);
+                    break;
+            }
+
+        } catch (Exception e)
+        {
+            StringBuilder builder = new StringBuilder();
+            builder.append("An error occurred, please screenshot and DM\n\n\n")
+                    .append("Message: ").append(e.getMessage());
+            AlertUtil.showAlert(this, "ERROR!", builder.toString());
         }
     }
 

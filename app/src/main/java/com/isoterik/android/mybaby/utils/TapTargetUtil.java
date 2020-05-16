@@ -74,6 +74,9 @@ public class TapTargetUtil
     public static void showMainGuides (Activity activity, NestedScrollView scrollView, TextView pregTrackerTxt, TextView kickCounterTxt, TextView conTimerTxt,
                                        TextView pregTipsTxt)
     {
+        if (true)
+        return;
+
         boolean cancelable = !PreferencesUtil.firstTimeLaunched(activity);
         Resources res = activity.getResources();
 
@@ -122,6 +125,9 @@ public class TapTargetUtil
     public static void showKickCounterGuides (Activity activity, ScrollView scrollView, View status, View timer, View foot, View kicks,
                                               View start, View recent, View reset, View finish)
     {
+        if (true)
+            return;
+
         boolean cancelable = !PreferencesUtil.firstBabyKickCounting(activity);
         Resources res = activity.getResources();
 
@@ -168,6 +174,9 @@ public class TapTargetUtil
     public static void showContractionsTimerGuides (Activity activity, ScrollView scrollView, View status, View timer, View contractions, View timerTrigger,
                                               View start, View recent, View reset, View finish)
     {
+        if (true)
+            return;
+
         boolean cancelable = !PreferencesUtil.firstContractionTiming(activity);
         Resources res = activity.getResources();
 
@@ -213,6 +222,9 @@ public class TapTargetUtil
 
     public static void showPregnancyTrackerInitialGuides (Activity activity, View start)
     {
+        if (true)
+            return;
+
         boolean cancelable = !PreferencesUtil.firstPregnancyTrackingInitial(activity);
         Resources res = activity.getResources();
 
@@ -234,6 +246,9 @@ public class TapTargetUtil
     public static void showPregnancyTrackerAfterLMPGuides (Activity activity, View weeks, View stop, View lmp, View changeLMP,
                                                            ViewPager viewPager)
     {
+        if (true)
+            return;
+
         boolean cancelable = !PreferencesUtil.firstPregnancyTrackingAfterLMP(activity);
         Resources res = activity.getResources();
 

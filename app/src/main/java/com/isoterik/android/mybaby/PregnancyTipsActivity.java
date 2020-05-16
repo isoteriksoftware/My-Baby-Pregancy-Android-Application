@@ -32,7 +32,6 @@ public class PregnancyTipsActivity extends AppCompatActivity
 
         Toolbar toolbar = findViewById(R.id.pregnancyTipsToolbar);
         setSupportActionBar(toolbar);
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         pregnancyTips = getResources().getStringArray(R.array.pregnancy_tips);
         int[] imagesIds = Misc.getResourcesIdArray(this, R.array.tips_images);
@@ -51,6 +50,14 @@ public class PregnancyTipsActivity extends AppCompatActivity
             currentItem = PregnancyDataProvider.validatePregnancyWeeksIndex(PregnancyDataProvider.getPregnancyWeeks(this));
 
         recyclerView.scrollToPosition(currentItem);
+    }
+
+    @Override
+    protected void onStart()
+    {
+        super.onStart();
+
+
     }
 
     private class ItemsAdapter extends RecyclerView.Adapter<PregnancyTipsActivity.ViewHolder>
