@@ -2,6 +2,7 @@ package com.isoterik.android.mybaby;
 
 import android.app.Dialog;
 import android.content.Intent;
+import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Looper;
@@ -17,7 +18,9 @@ import androidx.cardview.widget.CardView;
 import androidx.core.widget.NestedScrollView;
 
 import com.isoterik.android.mybaby.utils.AlertUtil;
+import com.isoterik.android.mybaby.utils.Misc;
 import com.isoterik.android.mybaby.utils.PreferencesUtil;
+import com.isoterik.android.mybaby.utils.ResourcesProvider;
 import com.isoterik.android.mybaby.utils.TapTargetUtil;
 
 public class MainActivity extends AppCompatActivity
@@ -72,8 +75,8 @@ public class MainActivity extends AppCompatActivity
         TextView pregnancyTrackerText = cardPregnancyTracker.findViewById(R.id.cardPregnancyTrackerText);
         TextView contractionTimerText = cardContractionTimer.findViewById(R.id.cardContractionTimerText);
         TextView pregnancyTipsText = cardPregnancyTips.findViewById(R.id.cardPregnancyTipsText);
-        TapTargetUtil.showMainGuides(this, scrollView, pregnancyTrackerText, kickCounterText, contractionTimerText,
-                pregnancyTipsText);
+        TapTargetUtil.showMainGuides(this, scrollView, cardPregnancyTracker, cardKickCounter, cardContractionTimer,
+                cardPregnancyTips);
     }
 
     private void onCardClicked (View v)

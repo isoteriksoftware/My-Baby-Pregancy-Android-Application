@@ -135,7 +135,7 @@
     <string name="baby_due_notification_text">After the long wait, it\'s finally time! Your little one is due today. Safe delivery!</string>
 
     <string name="main_guide_pregnancy_tracker_title">Pregnancy Tracker</string>
-    <string name="main_guide_pregnancy_tracker_desc">The tracker automatically tracks your pregnancy data and provides relevant information about you and your baby. Click the white circle to proceed</string>
+    <string name="main_guide_pregnancy_tracker_desc">The tracker automatically tracks your pregnancy data and provides relevant information about you and your baby.</string>
     <string name="main_guide_kick_counter_title">Baby Kick Counter</string>
     <string name="main_guide_kick_counter_desc">A handy tool for counting your baby kicks!</string>
     <string name="main_guide_contraction_timer_title">Contraction</string>

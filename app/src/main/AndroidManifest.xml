@@ -52,7 +52,7 @@
         <activity
             android:name=".PregnancyTipsActivity"
             android:label="@string/pregnancy_tips"
-            android:theme="@style/AppTheme.NoActionBar"
+            android:theme="@style/Bared"
             android:screenOrientation="portrait">
 
             <meta-data android:name="android.support.PARENT_ACTIVITY"

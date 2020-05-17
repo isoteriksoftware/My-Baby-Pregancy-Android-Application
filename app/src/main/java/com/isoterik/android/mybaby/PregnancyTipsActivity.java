@@ -18,6 +18,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.isoterik.android.mybaby.utils.Misc;
 import com.isoterik.android.mybaby.utils.PregnancyDataProvider;
+import com.isoterik.android.mybaby.utils.ResourcesProvider;
 
 public class PregnancyTipsActivity extends AppCompatActivity
 {
@@ -29,9 +30,6 @@ public class PregnancyTipsActivity extends AppCompatActivity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_pregnancy_tips);
-
-        Toolbar toolbar = findViewById(R.id.pregnancyTipsToolbar);
-        setSupportActionBar(toolbar);
 
         pregnancyTips = getResources().getStringArray(R.array.pregnancy_tips);
         int[] imagesIds = Misc.getResourcesIdArray(this, R.array.tips_images);

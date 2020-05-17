@@ -9,6 +9,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.ScrollView;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
@@ -47,6 +48,7 @@ public class MainFragment extends BaseListenerFragment
     private Button btnStopTracker;
     private TextView labelLMPDate;
     private Button btnChangeLMPDate;
+    private ScrollView scrollView;
 
     private Calendar lmpCalendar;
 
@@ -77,6 +79,7 @@ public class MainFragment extends BaseListenerFragment
 
         if (hasPregnancyTrackerData)
         {
+            scrollView = root.findViewById(R.id.trackerScrollView);
             labelPregnancyWeeks = root.findViewById(R.id.labelPregnancyWeeks);
             labelLMPDate = root.findViewById(R.id.labelLMPDate);
             btnStopTracker = root.findViewById(R.id.btnStopPregnancyTracker);
@@ -128,7 +131,7 @@ public class MainFragment extends BaseListenerFragment
                 Handler handler = new Handler(Looper.getMainLooper());
                 handler.postDelayed(() ->
                 {
-                    TapTargetUtil.showPregnancyTrackerAfterLMPGuides(getActivity(), labelPregnancyWeeks, btnStopTracker, labelLMPDate,
+                    TapTargetUtil.showPregnancyTrackerAfterLMPGuides(getActivity(), scrollView, labelPregnancyWeeks, btnStopTracker, labelLMPDate,
                             btnChangeLMPDate, viewPager);
                 }, 300);
             }
@@ -231,7 +234,7 @@ public class MainFragment extends BaseListenerFragment
     {
         if (PreferencesUtil.hasPregnancyTrackerData(getContext()))
         {
-            TapTargetUtil.showPregnancyTrackerAfterLMPGuides(getActivity(), labelPregnancyWeeks, btnStopTracker, labelLMPDate,
+            TapTargetUtil.showPregnancyTrackerAfterLMPGuides(getActivity(), scrollView, labelPregnancyWeeks, btnStopTracker, labelLMPDate,
                     btnChangeLMPDate, viewPager);
         }
         else
